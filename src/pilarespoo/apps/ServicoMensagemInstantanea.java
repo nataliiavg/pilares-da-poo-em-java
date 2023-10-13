@@ -1,4 +1,4 @@
-package apps;
+package pilarespoo.apps;
 public abstract class ServicoMensagemInstantanea {
 
     public abstract void enviarMensagem();

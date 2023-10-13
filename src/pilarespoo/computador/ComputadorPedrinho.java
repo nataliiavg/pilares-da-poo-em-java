@@ -1,11 +1,12 @@
+package pilarespoo.computador;
 /* Podemos avaliar a importância de compreender os pilares de POO, para ter uma melhor implementação,
 * reaproveitamento e reutilização de código, em qualquer contexto das nossas aplicações.
 */
 
-import apps.FacebookMessenger;
-import apps.MSNMessenger;
-import apps.ServicoMensagemInstantanea;
-import apps.Telegram;
+import pilarespoo.apps.FacebookMessenger;
+import pilarespoo.apps.MSNMessenger;
+import pilarespoo.apps.ServicoMensagemInstantanea;
+import pilarespoo.apps.Telegram;
 
 public class ComputadorPedrinho {
     public static void main(String[] args) {

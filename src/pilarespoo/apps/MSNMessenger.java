@@ -1,4 +1,4 @@
-package apps;
+package pilarespoo.apps;
 public class MSNMessenger extends ServicoMensagemInstantanea {
 
     @Override
